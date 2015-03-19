@@ -1,5 +1,6 @@
 package com.example.biny.helloworld;
 
+import android.graphics.Color;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -53,6 +54,7 @@ public class MainActivity extends ActionBarActivity {
     public void btn1ClickEvent(View target)//button click event
     {
         TextView view = (TextView)findViewById(R.id.textView);
+        view.setTextColor(Color.RED);
         view.setText("Hello world! click by button 1");
     }
 }
