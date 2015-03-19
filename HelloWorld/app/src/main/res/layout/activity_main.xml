@@ -20,4 +20,13 @@
         android:layout_alignParentStart="true"
         android:layout_marginTop="77dp" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Click2"
+        android:id="@+id/button2"
+        android:layout_alignTop="@+id/button1"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
 </RelativeLayout>
