@@ -2,22 +2,15 @@
 Learn Android Native APP dev by java &amp; android studio.
 
 
-## PrivateShareFile
+##  Basic
 
-File upload/download APP by ShareFile HTTPS API.
-
-* IDE: Android Studio 1.1.0
-* Device: HUAWEI, MediaPad 7 Youth. (7 inch)
-* My Code: \app\src\main\java\*; app\src\main\res\layout\*
+* [hello world](https://github.com/ybdesire/AndroidAPPLearn/tree/master/HelloWorld)
+* [APK signature](https://github.com/ybdesire/AndroidAPPLearn/tree/master/HelloWorld/Readme.md)
+* 
 
 
-## HelloWorld
+##　Decompile APK
 
-HelloWorld by Android Studio 2.0.
+* [Decompile apk and re-build Smali files to apk](https://github.com/ybdesire/AndroidAPPLearn/tree/master/1_helloworld/Readme.md)
 
-Note gradle version should be modified to 1.5.0 (file `build.gradle`) at my environemnt.
-
-```
-classpath 'com.android.tools.build:gradle:1.5.0'
-```
 
