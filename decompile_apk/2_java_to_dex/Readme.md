@@ -3,7 +3,7 @@
 * 1. Compile .java to .class by cmd below
 
 ```
-javac Hello.java
+javac -source 1.6 -target 1.6 Hello.java
 ```
 
 * 2. Decompile .class file to see the readable java byte code
@@ -31,7 +31,7 @@ Readable java byte code (part of):
 * 1. Compile .java to .class by cmd below
 
 ```
-javac Hello.java
+javac -source 1.6 -target 1.6 Hello.java
 ```
 
 * 2. Compile .class to .dex (Dalvik byte code)
