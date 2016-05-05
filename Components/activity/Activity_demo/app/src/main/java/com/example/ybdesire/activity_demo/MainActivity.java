@@ -19,8 +19,14 @@ public class MainActivity extends AppCompatActivity {
         // Do something in response to button click
         TextView txt=(TextView)findViewById(R.id.textView);//find output label by id
         txt.setText("Hello world! click by button ");
-        Intent intnt = new Intent(MainActivity.this, Main2Activity.class);
-        startActivity(intnt);
+
+        Bundle bundle =new Bundle();// 创建  内容
+        bundle.putBoolean("boolean_key", true);// 编写内容
+        bundle.putString("string_key", "string_value");
+
+        Intent intnt = new Intent(MainActivity.this, Main2Activity.class);//intent 发送的目的地 Main2Activity
+        intnt.putExtra("key", bundle);// 封装bundle(要发送到另一个Activity的内容，发送的内容在另一个Activity中的onCreate()中获取)
+        startActivity(intnt);//启动另一个Activity。
 
     }
 
