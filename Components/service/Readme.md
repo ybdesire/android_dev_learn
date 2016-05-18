@@ -31,10 +31,19 @@ stopService(stopIntent);
 ```
 
 # Service和Activity通信
-?
+
+所谓通信，就是在Activity中，指定service去执行一项特定的任务。
+
+
 
 # Service和Thread的关系
-?
+
+* Service和Thread之间没有任何关系
+* MainActivity和Service的线程ID是完全一样的
+* 所谓Service是Android的后台就是指，它的运行是完全不依赖UI的。即使Activity被销毁，或者程序被关闭，只要进程还在，Service就可以继续运行
+* Service的一般用法：在Service中再创建一个子线程，然后在这里去处理耗时逻辑
+* 为什么不直接在Activity里创建Thread呢？
+   * 这是因为Activity很难对Thread进行控制，当Activity被销毁之后，就没有任何其它的办法可以再重新获取到之前创建的子线程的实例。而且在一个Activity中创建的子线程，另一个Activity无法对其进行操作。
 
 # Ref
 

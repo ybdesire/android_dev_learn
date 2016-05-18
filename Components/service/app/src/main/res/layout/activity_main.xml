@@ -33,4 +33,27 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bind"
+        android:id="@+id/bind_service"
+        android:layout_marginTop="37dp"
+        android:layout_below="@+id/stop_service"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="25dp"
+        android:layout_marginStart="25dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Unbind"
+        android:id="@+id/unbind_service"
+        android:layout_alignTop="@+id/bind_service"
+        android:layout_toRightOf="@+id/bind_service"
+        android:layout_toEndOf="@+id/bind_service"
+        android:layout_marginLeft="57dp"
+        android:layout_marginStart="57dp" />
+
 </RelativeLayout>

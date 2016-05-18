@@ -2,12 +2,14 @@ package com.example.ybdesire.service_demo;
 
 import android.app.Service;
 import android.content.Intent;
+import android.os.Binder;
 import android.os.IBinder;
 import android.util.Log;
 
 public class MyService extends Service {
 
     public static final String TAG = "MyService";
+    private final IBinder mBinder = new MyBinder();
 
     public MyService() {
     }
@@ -15,7 +17,8 @@ public class MyService extends Service {
     @Override
     public IBinder onBind(Intent intent) {
         // TODO: Return the communication channel to the service.
-        throw new UnsupportedOperationException("Not yet implemented");
+        //throw new UnsupportedOperationException("Not yet implemented");
+        return mBinder;
     }
 
     @Override
@@ -36,4 +39,12 @@ public class MyService extends Service {
         Log.d(TAG, "onDestroy() executed");
     }
 
-}
+    class MyBinder extends Binder {
+
+        public void startDownload() {
+            Log.d("TAG", "startDownload() executed");
+            // 执行具体的某项任务
+        }
+    }
+
+    }
