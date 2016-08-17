@@ -27,5 +27,10 @@ public class MainActivity extends AppCompatActivity {
         t = (TextView)findViewById(R.id.manufacturer);
         t.setText(str);
 
+        // device type
+        str = "DeviceType: " + DeviceUtil.getDeviceType();
+        t = (TextView)findViewById(R.id.devicetype);
+        t.setText(str);
+
     }
 }
