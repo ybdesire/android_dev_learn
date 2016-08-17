@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // root detection
         RootUtil rootutil = new RootUtil();
         String str = "Rooted: No";
         if(rootutil.isDeviceRooted())
@@ -19,6 +20,11 @@ public class MainActivity extends AppCompatActivity {
         }
         // display the string at TextView
         TextView t = (TextView)findViewById(R.id.rootinfo);
+        t.setText(str);
+
+        // manufacturer
+        str = "Manufacturer: " + DeviceUtil.getManufacturer();
+        t = (TextView)findViewById(R.id.manufacturer);
         t.setText(str);
 
     }
