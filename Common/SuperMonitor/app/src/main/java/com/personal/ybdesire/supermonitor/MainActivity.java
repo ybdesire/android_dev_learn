@@ -32,5 +32,10 @@ public class MainActivity extends AppCompatActivity {
         t = (TextView)findViewById(R.id.devicetype);
         t.setText(str);
 
+        // mac address
+        str = "MAC address: " + DeviceUtil.getMacAddress();
+        t = (TextView)findViewById(R.id.macaddr);
+        t.setText(str);
+
     }
 }

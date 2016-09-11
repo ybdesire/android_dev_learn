@@ -23,16 +23,27 @@
         android:layout_height="wrap_content"
         android:text="Manufacturer"
         android:id="@+id/manufacturer"
-        android:layout_marginTop="39dp"
+        android:layout_marginTop="20dp"
         android:layout_below="@+id/rootinfo"
-        android:layout_centerHorizontal="true" />
+        android:layout_alignLeft="@+id/devicetype"
+        android:layout_alignStart="@+id/devicetype" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Device Type"
         android:id="@+id/devicetype"
-        android:layout_marginTop="46dp"
+        android:layout_marginTop="21dp"
         android:layout_below="@+id/manufacturer"
         android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MAC address"
+        android:id="@+id/macaddr"
+        android:layout_marginTop="19dp"
+        android:layout_below="@+id/devicetype"
+        android:layout_centerHorizontal="true" />
+
 </RelativeLayout>
