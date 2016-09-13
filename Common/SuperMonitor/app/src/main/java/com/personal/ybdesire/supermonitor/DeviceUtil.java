@@ -53,4 +53,9 @@ public class DeviceUtil {
         return macAddr==null?"":macAddr;
     }
 
+    public static String getAndroidOSVersion()
+    {
+        String ver = Build.VERSION.RELEASE;
+        return ver;
+    }
 }

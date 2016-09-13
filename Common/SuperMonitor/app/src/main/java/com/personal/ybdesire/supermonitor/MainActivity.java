@@ -37,5 +37,10 @@ public class MainActivity extends AppCompatActivity {
         t = (TextView)findViewById(R.id.macaddr);
         t.setText(str);
 
+        // OS version
+        str = "Android version: " + DeviceUtil.getAndroidOSVersion();
+        t = (TextView)findViewById(R.id.osver);
+        t.setText(str);
+
     }
 }

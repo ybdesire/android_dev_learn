@@ -46,4 +46,13 @@
         android:layout_below="@+id/devicetype"
         android:layout_centerHorizontal="true" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Android OS version"
+        android:id="@+id/osver"
+        android:layout_marginTop="49dp"
+        android:layout_below="@+id/devicetype"
+        android:layout_centerHorizontal="true" />
+
 </RelativeLayout>
