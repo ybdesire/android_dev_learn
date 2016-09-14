@@ -55,4 +55,13 @@
         android:layout_below="@+id/devicetype"
         android:layout_centerHorizontal="true" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="System Security"
+        android:id="@+id/btn_sys_sec"
+        android:layout_marginTop="88dp"
+        android:layout_below="@+id/osver"
+        android:layout_centerHorizontal="true" />
+
 </RelativeLayout>
