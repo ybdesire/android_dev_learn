@@ -13,8 +13,11 @@ public class SysSecActivity extends AppCompatActivity {
         setContentView(R.layout.activity_sys_sec);
 
         String [] strs = new String[]{"123","234","345","234","345","234","345","234","345","234","345","234","345","234","345","234","345","234","345","234","345","234","345","234","345","234","345","234","345","234","345","234","345","234","345","234","345","234","345","234","345","234","345"};
+
         ListView lv = (ListView) findViewById(R.id.listview_sys_sec);
         lv.setAdapter(new ArrayAdapter<String>(this,
-                android.R.layout.simple_list_item_1, strs));
+                android.R.layout.simple_list_item_checked, strs));
+        lv.setChoiceMode(ListView.CHOICE_MODE_MULTIPLE);
+
     }
 }
