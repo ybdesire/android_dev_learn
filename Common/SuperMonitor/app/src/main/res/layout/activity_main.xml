@@ -62,6 +62,7 @@
         android:id="@+id/btn_sys_sec"
         android:layout_marginTop="88dp"
         android:layout_below="@+id/osver"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:textAllCaps="false" />
 
 </RelativeLayout>
