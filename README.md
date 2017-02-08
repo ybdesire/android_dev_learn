@@ -27,4 +27,5 @@ Learn Android Native APP dev by java &amp; android studio.
 * [Get all packages for APK by Androguard]()
 * [Get all classes for APK by Androguard]()
 
-
+### Other tips
+* [Tool for downloading APK from Google Play](http://apps.evozi.com/apk-downloader/)
