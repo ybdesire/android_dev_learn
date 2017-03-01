@@ -6,7 +6,8 @@ Learn Android Native APP dev by java &amp; android studio.
 
 ### Android Dev Basic
 * [hello world](https://github.com/ybdesire/AndroidAPPLearn/tree/master/HelloWorld)
-* [APK signature](https://github.com/ybdesire/AndroidAPPLearn/tree/master/HelloWorld/Readme.md)
+* [APK signature by Android Studio](https://github.com/ybdesire/AndroidAPPLearn/tree/master/HelloWorld/Readme.md)
+* [APK signature by cmd](http://blog.csdn.net/ybdesire/article/details/52505648)
 
 
 ### Android 5 Components Basic
@@ -33,4 +34,9 @@ Learn Android Native APP dev by java &amp; android studio.
 
 ### Other tips
 * [Tool for downloading APK from Google Play](http://apps.evozi.com/apk-downloader/)
+* [How to find Android SDK path at Win](https://github.com/ybdesire/AndroidAPPLearn/blob/master/note/android_sdk_path.md)
+* [How to create Android project by cmd at Win](https://github.com/ybdesire/AndroidAPPLearn/blob/master/note/android_cmd.md)
+* [How to build Android project by ant at Win](https://github.com/ybdesire/AndroidAPPLearn/blob/master/note/android_cmd.md)
+
+
 
