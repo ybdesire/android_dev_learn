@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">LayoutDemo</string>
+    <string name="bn1">按钮1</string>
+    <string name="bn2">按钮2</string>
+    <string name="bn3">按钮3</string>
+    <string name="bn4">按钮4</string>
+    <string name="bn5">按钮5</string>
 </resources>
