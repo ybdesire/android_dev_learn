@@ -60,9 +60,19 @@
         android:layout_height="wrap_content"
         android:text="System Security"
         android:id="@+id/btn_sys_sec"
-        android:layout_marginTop="88dp"
+        android:textAllCaps="false"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/osver"
+        android:layout_alignStart="@+id/osver"
+        android:layout_marginBottom="33dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="device id"
+        android:id="@+id/devid"
         android:layout_below="@+id/osver"
         android:layout_centerHorizontal="true"
-        android:textAllCaps="false" />
+        android:layout_marginTop="20dp" />
 
 </RelativeLayout>

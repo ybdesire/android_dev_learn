@@ -1,9 +1,16 @@
 package com.personal.ybdesire.supermonitor;
+import android.content.Context;
+import android.net.wifi.WifiInfo;
+import android.net.wifi.WifiManager;
 import android.os.Build;
+import android.telephony.TelephonyManager;
 
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.LineNumberReader;
+import java.net.NetworkInterface;
+import java.util.Collections;
+import java.util.List;
 
 /**
  * Created by ybdesire on 2016/8/17.
@@ -30,32 +37,13 @@ public class DeviceUtil {
         return model;
     }
 
-    public static String getMacAddress(){
-        String macAddr = null;
-        LineNumberReader reader = null;
-        try{
-            Process p = Runtime.getRuntime().exec("cat /sys/class/net/wlan0/address");
-            InputStreamReader ir = new InputStreamReader(p.getInputStream());
-            reader = new LineNumberReader(ir);
-            macAddr = reader.readLine().replace(";", "");
-        } catch (IOException e){
-            e.printStackTrace();
-        } finally {
-            try {
-                if (reader != null) {
-                    reader.close();
-                }
-            } catch(IOException e){
-                e.printStackTrace();
-            }
-        }
-
-        return macAddr==null?"":macAddr;
-    }
 
     public static String getAndroidOSVersion()
     {
         String ver = Build.VERSION.RELEASE;
         return ver;
     }
+
+
+
 }
