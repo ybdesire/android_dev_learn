@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test de globalisation</string>
+    <string name="title">Les gagnants des Oscars 2018 ont été annoncés! C'est l'endroit idéal pour voir qui a gagné gros à la 90e cérémonie des Oscars, y compris ceux qui ont remporté les honneurs du meilleur film, du meilleur acteur et de la meilleure actrice aux Oscars 2018!</string>
+    <string name="btn">Bonjour</string>
+</resources>
