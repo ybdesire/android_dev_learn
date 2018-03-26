@@ -17,6 +17,15 @@ Learn Android Native APP dev by java &amp; android studio.
 ### 1.3 G11n/L10n
 * [g11n steps](Common/G11nTest/Readme.md)
 
+### 1.4 timer
+* [PostDelay, do things after 5s delay](Common/DoAfterDelay/app/src/main/java/example/ybdesire/com/doafterdelay/MainActivity.java)
+
+### 1.5 Regrex
+* [Regular expression match](Common/RegexDemo/app/src/main/java/example/ybdesire/com/regexdemo/MainActivity.java)
+
+### 1.6 HTTP GET/POST
+* [HTTP GET/POST Request](Common/HTTPDemo/app/src/main/java/example/ybdesire/com/httpdemo/MainActivity.java)
+
 
 ## 2. APK reverse engineering
 
