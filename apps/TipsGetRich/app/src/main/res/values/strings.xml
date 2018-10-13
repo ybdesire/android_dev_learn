@@ -1,4 +1,25 @@
 <resources>
     <string name="app_name">TipsGetRich</string>
     <string name="title_activity_main2">Main2Activity</string>
+    <string-array name="tabs_names">
+        <item>My Tab 1</item>
+        <item>My Tab 2</item>
+        <item>My Tab 3</item>
+        <item>My Tab 4</item>
+        <item>My Tab 5</item>
+        <item>My Tab 6</item>
+        <item>My Tab 7</item>
+        <item>My Tab 8</item>
+        <item>My Tab 9</item>
+        <item>My Tab 10</item>
+        <item>My Tab 11</item>
+        <item>My Tab 12</item>
+        <item>My Tab 13</item>
+        <item>My Tab 14</item>
+        <item>My Tab 15</item>
+        <item>My Tab 16</item>
+        <item>My Tab 17</item>
+        <item>My Tab 18</item>
+    </string-array>
+
 </resources>

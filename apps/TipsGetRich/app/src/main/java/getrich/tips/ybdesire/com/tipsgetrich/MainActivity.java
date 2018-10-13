@@ -17,9 +17,13 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //content to display
-        String[] strs = new String[] {
-                "first", "second", "third", "fourth", "fifth"
-        };//定义一个String数组用来显示ListView的内容
+        String[] tab_names = getResources().getStringArray(R.array.tabs_names);
+        String[] strs = new String[tab_names.length];
+
+        for(int i=0;i<tab_names.length;i++)
+        {
+            strs[i] = tab_names[i];
+        }
 
 
         // display at the listview
@@ -36,13 +40,10 @@ public class MainActivity extends AppCompatActivity {
                 // start another acitvity with parameters
                 Intent intent = new Intent(MainActivity.this, Main2Activity.class);
                 Bundle b = new Bundle();
-                b.putInt("page", arg2); //Your id
-                intent.putExtras(b); //Put your id to your next Intent
+                b.putInt("page", arg2); //Your key-value
+                intent.putExtras(b); //Put your key-value
                 startActivity(intent);
                 finish();
-
-
-
             }
         });
 

@@ -16,17 +16,29 @@ public class Main2Activity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+        // get page num from main activity
         Bundle b = getIntent().getExtras();
         int value = -1; // or other values
         if(b != null)
             value = b.getInt("page");
         setTitle("get value: "+value);
+        //display content
+        String str="blank content";
+        if(value!=-1)
+        {
+            String[] tab_names = getResources().getStringArray(R.array.tabs_names);
+            str = tab_names[value];
+            setTitle(str);
+        }
+
+
+
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "replace your action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });
