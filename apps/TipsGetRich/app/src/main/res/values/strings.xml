@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">TipsGetRich</string>
     <string name="title_activity_main2">Main2Activity</string>
+    <string name="btn_back">Back</string>
     <string-array name="tabs_names">
         <item>My Tab 1</item>
         <item>My Tab 2</item>
