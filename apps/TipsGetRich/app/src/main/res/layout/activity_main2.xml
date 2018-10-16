@@ -18,15 +18,16 @@
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
-        android:layout_height="388dp"
+        android:layout_height="401dp"
         android:layout_marginTop="80dp"
-        android:text="TextView123"
- />
+        android:text="123" />
 
     <Button
         android:id="@+id/btn_back"
-        android:layout_width="match_parent"
+        android:layout_width="273dp"
         android:layout_height="wrap_content"
+        android:layout_gravity="center"
+
         android:layout_marginTop="500dp"
         android:text="@string/btn_back" />
 

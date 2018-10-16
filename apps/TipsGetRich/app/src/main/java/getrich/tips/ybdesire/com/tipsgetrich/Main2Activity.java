@@ -8,6 +8,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
 
 import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.ads.AdRequest;
@@ -24,6 +26,7 @@ public class Main2Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
+
         // init and load banner ad
         MobileAds.initialize(this, "ca-app-pub-8100413825150401~9396888732");
         mAdView = findViewById(R.id.adView);
@@ -37,22 +40,24 @@ public class Main2Activity extends AppCompatActivity {
         int value = -1; // or other values
         if(b != null)
             value = b.getInt("page");
-        setTitle("get value: "+value);
+        setTitle(getString(R.string.txt_page)+value);
+
         //display content
-        String str="blank content";
+        String str=getString(R.string.txt_blank);
         if(value!=-1)
         {
             String[] tab_names = getResources().getStringArray(R.array.tabs_names);
             str = tab_names[value];
-            setTitle(str);
         }
+        TextView etxt= (TextView) findViewById(R.id.textView);
+        etxt.setText(str);
 
+        // back button click
         Button button= (Button) findViewById(R.id.btn_back);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 mInterstitialAd.loadAd(new AdRequest.Builder().build());
-
                 finish();
             }
         });

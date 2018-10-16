@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         // init and load banner ad
         MobileAds.initialize(this, "ca-app-pub-8100413825150401~9396888732");
         mAdView = findViewById(R.id.adView);
@@ -36,21 +37,26 @@ public class MainActivity extends AppCompatActivity {
 
         for(int i=0;i<tab_names.length;i++)
         {
-            strs[i] = tab_names[i];
+            String str = tab_names[i];
+            if(str.length()>=15)
+            {
+                str = str.substring(0,15)+"... ...";
+            }
+            strs[i] = str;
         }
 
-
         // display at the listview
-        ListView lv = (ListView) findViewById(R.id.lv);//得到ListView对象的引用 /*为ListView设置Adapter来绑定数据*/
+        ListView lv = (ListView) findViewById(R.id.lv);
         lv.setAdapter(new ArrayAdapter<String>(this,
                 android.R.layout.simple_list_item_1, strs));
+
 
         // click listener
         lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> arg0, View arg1, int arg2, long arg3) {
-                //点击后在标题上显示点击了第几行
-                setTitle("你点击了第"+arg2+"行");
+
+                //setTitle("你点击了第"+arg2+"行");
                 mInterstitialAd.loadAd(new AdRequest.Builder().build());
 
                 // start another acitvity with parameters

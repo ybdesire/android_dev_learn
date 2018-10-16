@@ -2,13 +2,15 @@
     <string name="app_name">TipsGetRich</string>
     <string name="title_activity_main2">Main2Activity</string>
     <string name="btn_back">Back</string>
+    <string name="txt_blank">Blank page, no content</string>
+    <string name="txt_page">Page</string>
     <string-array name="tabs_names">
-        <item>My Tab 1</item>
-        <item>My Tab 2</item>
+        <item>My Tab 1 My Tab 1 My Tab 1 My Tab 1 My Tab 1</item>
+        <item>My Tab 2My Tab 2My Tab 2My Tab 2</item>
         <item>My Tab 3</item>
         <item>My Tab 4</item>
         <item>My Tab 5</item>
-        <item>My Tab 6</item>
+        <item>My Tab 6My Tab 6My Tab 6My Tab 6My Tab 6My Tab 6My Tab 6My Tab 6</item>
         <item>My Tab 7</item>
         <item>My Tab 8</item>
         <item>My Tab 9</item>
