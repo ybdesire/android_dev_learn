@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
         mAdView.loadAd(adRequest);
         mInterstitialAd = new InterstitialAd(this);
         mInterstitialAd.setAdUnitId("ca-app-pub-8100413825150401/1718543413");
+        mInterstitialAd.loadAd(new AdRequest.Builder().build());
 
         //content to display
         String[] tab_names = getResources().getStringArray(R.array.tabs_names);
@@ -57,7 +58,9 @@ public class MainActivity extends AppCompatActivity {
             public void onItemClick(AdapterView<?> arg0, View arg1, int arg2, long arg3) {
 
                 //setTitle("你点击了第"+arg2+"行");
-                mInterstitialAd.loadAd(new AdRequest.Builder().build());
+                if (mInterstitialAd.isLoaded()) {
+                    mInterstitialAd.show();
+                }
 
                 // start another acitvity with parameters
                 Intent intent = new Intent(MainActivity.this, Main2Activity.class);

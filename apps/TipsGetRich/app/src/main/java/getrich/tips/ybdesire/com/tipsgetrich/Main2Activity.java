@@ -34,6 +34,7 @@ public class Main2Activity extends AppCompatActivity {
         mAdView.loadAd(adRequest);
         mInterstitialAd = new InterstitialAd(this);
         mInterstitialAd.setAdUnitId("ca-app-pub-8100413825150401/1718543413");
+        mInterstitialAd.loadAd(new AdRequest.Builder().build());
 
         // get page num from main activity
         Bundle b = getIntent().getExtras();
@@ -57,7 +58,9 @@ public class Main2Activity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mInterstitialAd.loadAd(new AdRequest.Builder().build());
+                if (mInterstitialAd.isLoaded()) {
+                    mInterstitialAd.show();
+                }
                 finish();
             }
         });
