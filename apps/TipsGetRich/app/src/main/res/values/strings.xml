@@ -5,24 +5,45 @@
     <string name="txt_blank">Blank page, no content</string>
     <string name="txt_page">Page</string>
     <string-array name="tabs_names">
-        <item>My Tab 1 My Tab 1 My Tab 1 My Tab 1 My Tab 1</item>
-        <item>My Tab 2My Tab 2My Tab 2My Tab 2</item>
-        <item>My Tab 3</item>
-        <item>My Tab 4</item>
-        <item>My Tab 5</item>
-        <item>My Tab 6My Tab 6My Tab 6My Tab 6My Tab 6My Tab 6My Tab 6My Tab 6</item>
-        <item>My Tab 7</item>
-        <item>My Tab 8</item>
-        <item>My Tab 9</item>
-        <item>My Tab 10</item>
-        <item>My Tab 11</item>
-        <item>My Tab 12</item>
-        <item>My Tab 13</item>
-        <item>My Tab 14</item>
-        <item>My Tab 15</item>
-        <item>My Tab 16</item>
-        <item>My Tab 17</item>
-        <item>My Tab 18</item>
+        <item>Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy.</item>
+        <item>Understand that ethical wealth creation is possible. If you secretly despise wealth, it will elude you.</item>
+        <item>Ignore people playing status games. They gain status by attacking people playing wealth creation games.</item>
+        <item>You’re not going to get rich renting out your time. You must own equity?—?a piece of a business?—?to gain your financial freedom.</item>
+        <item>You will get rich by giving society what it wants but does not yet know how to get. At scale.</item>
+        <item>Pick an industry where you can play long term games with long term people.</item>
+        <item>The Internet has massively broadened the possible space of careers. Most people haven’t figured this out yet.</item>
+        <item>Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest.</item>
+        <item>Pick business partners with high intelligence, energy, and, above all, integrity.</item>
+        <item>Don’t partner with cynics and pessimists. Their beliefs are self-fulfilling.</item>
+        <item>Learn to sell. Learn to build. If you can do both, you will be unstoppable.</item>
+        <item>Arm yourself with specific knowledge, accountability, and leverage.</item>
+        <item>Specific knowledge is knowledge that you cannot be trained for. If society can train you, it can train someone else, and replace you.</item>
+        <item>Specific knowledge is found by pursuing your genuine curiosity and passion rather than whatever is hot right now.</item>
+        <item>Building specific knowledge will feel like play to you but will look like work to others.</item>
+        <item>When specific knowledge is taught, it’s through apprenticeships, not schools.</item>
+        <item>Specific knowledge is often highly technical or creative. It cannot be outsourced or automated.</item>
+        <item>Embrace accountability, and take business risks under your own name. Society will reward you with responsibility, equity, and leverage.</item>
+        <item>The most accountable people have singular, public, and risky brands: Oprah, Trump, Kanye, Elon.</item>
+        <item>“Give me a lever long enough, and a place to stand, and I will move the earth.”?—?Archimedes</item>
+        <item>Fortunes require leverage. Business leverage comes from capital, people, and products with no marginal cost of replication (code and media).</item>
+        <item>Capital means money. To raise money, apply your specific knowledge, with accountability, and show resulting good judgment.</item>
+        <item>Labor means people working for you. It’s the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it.</item>
+        <item>Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.</item>
+        <item>Code and media are permissionless leverage. They’re the leverage behind the newly rich. You can create software and media that works for you while you sleep.</item>
+        <item>An army of robots is freely available?—?it’s just packed in data centers for heat and space efficiency. Use it.</item>
+        <item>If you can’t code, write books and blogs, record videos and podcasts.</item>
+        <item>Leverage is a force multiplier for your judgement.</item>
+        <item>Judgement requires experience, but can be built faster by learning foundational skills.</item>
+        <item>There is no skill called “business.” Avoid business magazines and business classes.</item>
+        <item>Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers.</item>
+        <item>Reading is faster than listening. Doing is faster than watching.</item>
+        <item>You should be too busy to “do coffee,” while still keeping an uncluttered calendar.</item>
+        <item>Set and enforce an aspirational personal hourly rate. If fixing a problem will save less than your hourly rate, ignore it. If outsourcing a task will cost less than your hourly rate, outsource it.</item>
+        <item>Work as hard as you can. Even though who you work with and what you work on are more important than how hard you work.</item>
+        <item>Become the best in the world at what you do. Keep redefining what you do until this is true.</item>
+        <item>There are no get rich quick schemes. That’s just someone else getting rich off you.</item>
+        <item>Apply specific knowledge, with leverage, and eventually you will get what you deserve.</item>
+        <item>When you’re finally wealthy, you’ll realize that it wasn’t what you were seeking in the first place. But that’s for another day.</item>
     </string-array>
 
 </resources>

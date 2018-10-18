@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">TipsGetRich</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="btn_back">Back</string>
+    <string name="txt_blank">Blank page, no content</string>
+    <string name="txt_page">Page</string>
+    <string-array name="tabs_names">
+        <item>Busca riqueza, no dinero o estatus. La riqueza es tener activos que ganan mientras duerme. El dinero es la forma en que transferimos tiempo y riqueza. El estado es tu lugar en la jerarquía social.</item>
+        <item>Comprenda que la creación de riqueza ética es posible. Si secretamente desprecias la riqueza, te eludirá.</item>
+        <item>Ignora a las personas que juegan juegos de estado. Ganan estatus atacando a personas que juegan juegos de creación de riqueza.</item>
+        <item>No te vas a hacer rico alquilando tu tiempo. ¿Debe ser propietario de acciones? -? ¿Una empresa? -? Para obtener su libertad financiera.</item>
+        <item>Te harás rico al darle a la sociedad lo que quiere, pero aún no sabe cómo conseguirlo. A escala.</item>
+        <item>Elija una industria en la que pueda jugar juegos a largo plazo con personas a largo plazo.</item>
+        <item>Internet ha ampliado enormemente el posible espacio de carreras. La mayoría de la gente aún no se dio cuenta de esto.</item>
+        <item>Juega juegos iterados. Todos los beneficios en la vida, ya sea en riqueza, relaciones o conocimiento, provienen del interés compuesto.</item>
+        <item>Elija socios comerciales con alta inteligencia, energía y, sobre todo, integridad.</item>
+        <item>No te asocies con cínicos y pesimistas. Sus creencias son autocumplidas.</item>
+        <item>Aprende a vender Aprende a construir Si puedes hacer ambas cosas, serás imparable.</item>
+        <item>Ármate con conocimiento específico, responsabilidad y apalancamiento.</item>
+        <item>El conocimiento específico es conocimiento para el que no se puede entrenar. Si la sociedad puede entrenarte, puede entrenar a otra persona y reemplazarte.</item>
+        <item>El conocimiento específico se encuentra al perseguir su genuina curiosidad y pasión en lugar de lo que está de moda en este momento.</item>
+        <item>Crear conocimiento específico se sentirá como un juego para ti, pero se verá como trabajo para otros.</item>
+        <item>Cuando se enseña un conocimiento específico, es a través de pasantías, no de escuelas.</item>
+        <item>El conocimiento específico es a menudo altamente técnico o creativo. No se puede subcontratar ni automatizar.</item>
+        <item>Acepte la responsabilidad y asuma riesgos comerciales bajo su propio nombre. La sociedad lo recompensará con responsabilidad, equidad y apalancamiento.</item>
+        <item>Las personas más responsables tienen marcas singulares, públicas y arriesgadas: Oprah, Trump, Kanye, Elon.</item>
+        <item>"Dame una palanca lo suficiente, y un lugar para pararse, y moveré la tierra". -? Archimedes</item>
+        <item>Las fortunas requieren apalancamiento. El apalancamiento empresarial proviene de capital, personas y productos sin costo marginal de replicación (código y medios).</item>
+        <item>Capital significa dinero. Para recaudar dinero, aplique sus conocimientos específicos, rinda cuentas y demuestre buen juicio.</item>
+        <item>Trabajo significa personas trabajando para usted. Es la forma de apalancamiento más antigua y más luchada. La influencia laboral impresionará a tus padres, pero no desperdicies tu vida persiguiéndolo.</item>
+        <item>Capital y mano de obra son apalancamiento permitido. Todos persiguen capital, pero alguien tiene que dárselos. Todos intentan liderar, pero alguien tiene que seguirte.</item>
+        <item>El código y los medios son apalancamiento sin permiso. Ellos son la palanca detrás de los nuevos ricos. Puede crear software y medios que funcionen para usted mientras duerme.</item>
+        <item>¿Un ejército de robots está disponible de forma gratuita? -? Está empaquetado en los centros de datos para la eficiencia del calor y el espacio. Úselo.</item>
+        <item>Si no puede codificar, escriba libros y blogs, grabe videos y podcasts.</item>
+        <item>El apalancamiento es un multiplicador de fuerza para su juicio.</item>
+        <item>El juicio requiere experiencia, pero se puede construir más rápido aprendiendo habilidades fundamentales.</item>
+        <item>No hay una habilidad llamada "negocios". Evite las revistas comerciales y las clases de negocios.</item>
+        <item>Estudie microeconomía, teoría de juegos, psicología, persuasión, ética, matemáticas y computadoras.</item>
+        <item>Leer es más rápido que escuchar. Hacer es más rápido que mirar.</item>
+        <item>Deberías estar demasiado ocupado para "hacer café", mientras mantienes un calendario ordenado.</item>
+        <item>Establezca y haga cumplir una tasa por hora personal aspiracional. Si solucionar un problema ahorrará menos que su tarifa por hora, ignórelo. Si subcontratar una tarea costará menos que su tarifa por hora, externalícela.</item>
+        <item>Trabaja tan duro como puedas. A pesar de con quién trabajas y en qué trabajas son más importantes que cuán duro trabajas.</item>
+        <item>Conviértete en el mejor del mundo en lo que haces. Continúa redefiniendo lo que haces hasta que esto sea verdad.</item>
+        <item>No hay planes para hacerse rico rápidamente. Es solo que otra persona se enriquece contigo.</item>
+        <item>Aplique el conocimiento específico, con apalancamiento, y eventualmente obtendrá lo que se merece.</item>
+        <item>Cuando finalmente seas rico, te darás cuenta de que no era lo que estabas buscando en primer lugar. Pero eso es por otro día.</item>
+    </string-array>
+
+</resources>

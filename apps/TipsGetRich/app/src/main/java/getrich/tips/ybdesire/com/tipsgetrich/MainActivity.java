@@ -39,9 +39,9 @@ public class MainActivity extends AppCompatActivity {
         for(int i=0;i<tab_names.length;i++)
         {
             String str = tab_names[i];
-            if(str.length()>=15)
+            if(str.length()>=25)
             {
-                str = str.substring(0,15)+"... ...";
+                str = str.substring(0,25)+"... ...";
             }
             strs[i] = str;
         }

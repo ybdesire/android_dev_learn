@@ -51,7 +51,7 @@ public class Main2Activity extends AppCompatActivity {
             str = tab_names[value];
         }
         TextView etxt= (TextView) findViewById(R.id.textView);
-        etxt.setText(str);
+        etxt.setText("    "+str);
 
         // back button click
         Button button= (Button) findViewById(R.id.btn_back);

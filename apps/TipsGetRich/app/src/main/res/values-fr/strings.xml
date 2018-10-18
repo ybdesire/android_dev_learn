@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">TipsGetRich</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="btn_back">Back</string>
+    <string name="txt_blank">Blank page, no content</string>
+    <string name="txt_page">Page</string>
+    <string-array name="tabs_names">
+        <item>Rechercher la richesse, pas l'argent ou le statut. La richesse est d'avoir des actifs qui gagnent pendant que vous dormez. L'argent est la façon dont nous transférons le temps et la richesse. Le statut est votre place dans la hiérarchie sociale.</item>
+        <item>Comprendre que la création de richesse éthique est possible. Si vous méprisez secrètement la richesse, cela vous échappera.</item>
+        <item>Ignorer les personnes jouant à des jeux de statut. Ils obtiennent un statut en attaquant les gens qui jouent à des jeux de création de richesses.</item>
+        <item>Vous n'allez pas devenir riche en louant votre temps. Vous devez posséder des capitaux propres - une partie d'une entreprise - pour gagner votre liberté financière.</item>
+        <item>Vous allez devenir riche en donnant à la société ce qu'elle veut, mais vous ne savez pas encore comment l'obtenir. À l'échelle.</item>
+        <item>Choisissez une industrie où vous pouvez jouer à des jeux à long terme avec des personnes à long terme.</item>
+        <item>Internet a massivement élargi l'espace possible des carrières. La plupart des gens ne l'ont pas encore compris.</item>
+        <item>Jouez à des jeux itérés. Tous les retours dans la vie, que ce soit dans la richesse, les relations ou la connaissance, proviennent de l’intérêt composé.</item>
+        <item>Choisissez des partenaires avec une intelligence, une énergie et surtout une intégrité élevées.</item>
+        <item>Ne pas faire équipe avec des cyniques et des pessimistes. Leurs croyances sont auto-réalisatrices.</item>
+        <item>Apprendre à vendre Apprenez à construire. Si vous pouvez faire les deux, vous serez imparable.</item>
+        <item>Armez-vous de connaissances spécifiques, de responsabilités et de leviers.</item>
+        <item>Des connaissances spécifiques sont des connaissances pour lesquelles vous ne pouvez pas être formé. Si la société peut vous former, elle peut former quelqu'un d'autre et vous remplacer.</item>
+        <item>La connaissance spécifique se trouve en poursuivant votre véritable curiosité et passion plutôt que tout ce qui est chaud en ce moment.</item>
+        <item>Construire des connaissances spécifiques vous semblera être un jeu mais ressemblera à du travail pour les autres.</item>
+        <item>Lorsque des connaissances spécifiques sont enseignées, cela passe par des apprentissages et non par des écoles.</item>
+        <item>Les connaissances spécifiques sont souvent très techniques ou créatives. Il ne peut pas être externalisé ou automatisé.</item>
+        <item>Adoptez la responsabilité et prenez des risques commerciaux sous votre propre nom. La société vous récompensera par ses responsabilités, son équité et son effet de levier.</item>
+        <item>Les personnes les plus responsables ont des marques singulières, publiques et risquées: Oprah, Trump, Kanye, Elon.</item>
+        <item>"Donne-moi un levier assez long, et un endroit où se tenir, et je déplacerai la terre."? -? Archimedes</item>
+        <item>Les fortunes nécessitent un effet de levier. L'effet de levier commercial provient des capitaux, des personnes et des produits sans coût marginal de réplication (code et média).</item>
+        <item>Capital signifie argent. Pour collecter des fonds, appliquez vos connaissances spécifiques, avec responsabilité, et montrez le bon jugement qui en résulte.</item>
+        <item>Le travail signifie des personnes qui travaillent pour vous. C'est la forme de levier la plus ancienne et la plus combattue. Le levier de travail impressionnera vos parents, mais ne gaspillez pas votre vie à le poursuivre.</item>
+        <item>Le capital et le travail sont des leviers autorisés. Tout le monde poursuit le capital, mais quelqu'un doit vous le donner. Tout le monde essaie de mener, mais quelqu'un doit vous suivre.</item>
+        <item>Le code et les médias sont un levier sans permission. Ils sont le levier derrière les nouveaux riches. Vous pouvez créer des logiciels et des médias qui vous conviennent lorsque vous dormez.</item>
+        <item>Une armée de robots est disponible gratuitement? - elle est juste emballée dans des centres de données pour une meilleure efficacité thermique et spatiale. Utilise le.</item>
+        <item>Si vous ne pouvez pas coder, écrivez des livres et des blogs, enregistrez des vidéos et des podcasts.</item>
+        <item>L'effet de levier est un multiplicateur de force pour votre jugement.</item>
+        <item>Le jugement nécessite de l'expérience, mais peut être construit plus rapidement en acquérant des compétences fondamentales.</item>
+        <item>Il n'y a pas de compétence appelée «business». Évitez les magazines d'affaires et les classes professionnelles.</item>
+        <item>Étudier la microéconomie, la théorie des jeux, la psychologie, la persuasion, l'éthique, les mathématiques et l'informatique.</item>
+        <item>La lecture est plus rapide que l'écoute. Faire est plus rapide que regarder.</item>
+        <item>Vous devriez être trop occupé pour "faire du café" tout en gardant un calendrier épuré.</item>
+        <item>Définir et appliquer un taux horaire personnel ambitieux. Si la résolution d'un problème permet d'économiser moins que votre taux horaire, ignorez-le. Si l'externalisation d'une tâche coûte moins cher que votre taux horaire, externalisez-la.</item>
+        <item>Travaillez autant que vous le pouvez. Même si vous travaillez avec et avec quoi vous travaillez, c'est plus important que votre travail.</item>
+        <item>Devenez le meilleur au monde dans ce que vous faites. Continuez à redéfinir ce que vous faites jusqu'à ce que cela soit vrai.</item>
+        <item>Il n'y a pas de schémas rapides pour devenir riche. C'est juste quelqu'un d'autre qui s'enrichit.</item>
+        <item>Appliquez des connaissances spécifiques, avec un effet de levier, et vous obtiendrez éventuellement ce que vous méritez.</item>
+        <item>Quand vous serez finalement riche, vous réaliserez que ce n'était pas ce que vous cherchiez en premier lieu. Mais c'est pour un autre jour.</item>
+    </string-array>
+
+</resources>

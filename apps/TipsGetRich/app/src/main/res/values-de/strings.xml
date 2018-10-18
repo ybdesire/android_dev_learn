@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">TipsGetRich</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="btn_back">Back</string>
+    <string name="txt_blank">Blank page, no content</string>
+    <string name="txt_page">Page</string>
+    <string-array name="tabs_names">
+        <item>Sucht Reichtum, nicht Geld oder Status. Reichtum hat Vermögenswerte, die während des Schlafes verdienen. Mit Geld transferieren wir Zeit und Reichtum. Status ist dein Platz in der sozialen Hierarchie.</item>
+        <item>Verstehen Sie, dass ethische Wertschöpfung möglich ist. Wenn Sie heimlich Reichtum verachten, wird es Ihnen entgehen.</item>
+        <item>Ignoriere Leute, die Statusspiele spielen. Sie gewinnen Status, indem sie Leute angreifen, die Spiele zur Vermögensbildung spielen.</item>
+        <item>Du wirst nicht reich werden, wenn du deine Zeit vermietest. Sie müssen Eigenkapital besitzen - ein Stück Geschäft? - um Ihre finanzielle Freiheit zu gewinnen.</item>
+        <item>Sie werden reich werden, indem Sie der Gesellschaft das geben, was sie will, aber noch nicht wissen, wie Sie es bekommen sollen. Auf einer Skala.</item>
+        <item>Wählen Sie eine Branche aus, in der Sie langfristige Spiele mit Langzeitmitgliedern spielen können.</item>
+        <item>Das Internet hat die Karrieremöglichkeiten massiv erweitert. Die meisten Leute haben das noch nicht herausgefunden.</item>
+        <item>Spiele iterierte Spiele. Alle Erträge im Leben, ob in Reichtum, Beziehungen oder Wissen, stammen aus Zinseszinsen.</item>
+        <item>Wählen Sie Geschäftspartner mit hoher Intelligenz, Energie und vor allem Integrität.</item>
+        <item>Geh nicht mit Zynikern und Pessimisten zusammen. Ihre Überzeugungen sind selbsterfüllend.</item>
+        <item>Lerne zu verkaufen. Lernen zu bauen. Wenn Sie beides tun können, werden Sie nicht aufzuhalten sein.</item>
+        <item>Bewaffne dich mit spezifischem Wissen, Verantwortlichkeit und Hebelwirkung.</item>
+        <item>Spezifisches Wissen ist Wissen, für das man nicht trainiert werden kann. Wenn die Gesellschaft dich ausbilden kann, kann sie jemand anderen ausbilden und dich ersetzen.</item>
+        <item>Spezifisches Wissen wird gefunden, indem Sie Ihrer echten Neugier und Leidenschaft nachgehen, anstatt dem, was gerade heiß ist.</item>
+        <item>Aufbauendes spezifisches Wissen wird sich wie ein Spiel für Sie anfühlen, aber für andere wie Arbeit aussehen.</item>
+        <item>Wenn spezifisches Wissen vermittelt wird, geschieht dies durch Lehrstellen, nicht durch Schulen.</item>
+        <item>Spezifisches Wissen ist oft sehr technisch oder kreativ. Es kann nicht ausgelagert oder automatisiert werden.</item>
+        <item>Übernehmen Sie Verantwortlichkeit und nehmen Sie Geschäftsrisiken unter Ihrem eigenen Namen auf. Die Gesellschaft wird Sie mit Verantwortung, Eigenkapital und Leverage belohnen.</item>
+        <item>Die verantwortlichen Menschen haben einzigartige, öffentliche und riskante Marken: Oprah, Trump, Kanye, Elon.</item>
+        <item>"Gib mir einen Hebel lang genug, und einen Platz, um zu stehen, und ich werde die Erde bewegen." - Archimedes</item>
+        <item>Vermögen brauchen Hebelwirkung. Der geschäftliche Nutzen kommt von Kapital, Menschen und Produkten ohne Grenzkosten für die Replikation (Code und Medien).</item>
+        <item>Kapital bedeutet Geld. Um Geld zu sammeln, wenden Sie Ihr spezifisches Wissen, mit Verantwortlichkeit, an und zeigen Sie gutes Urteilsvermögen.</item>
+        <item>Arbeit bedeutet, dass Menschen für dich arbeiten. Es ist die älteste und am meisten umkämpfte Form der Hebelwirkung. Arbeitskraft wird Ihre Eltern beeindrucken, aber verschwenden Sie Ihr Leben nicht hinterher.</item>
+        <item>Kapital und Arbeit sind erlaubt Hebelwirkung. Jeder jagt Kapital, aber jemand muss es dir geben. Jeder versucht zu führen, aber jemand muss dir folgen.</item>
+        <item>Code und Medien sind erlaubnislose Hebelwirkung. Sie sind der Hebel hinter den Neu-Reichen. Sie können Software und Medien erstellen, die während des Schlafs für Sie arbeiten.</item>
+        <item>Eine Armee von Robotern ist frei verfügbar? - Es ist nur in Rechenzentren für Wärme-und Raumeffizienz verpackt. Benutze es.</item>
+        <item>Wenn Sie nicht programmieren können, schreiben Sie Bücher und Blogs, nehmen Sie Videos und Podcasts auf.</item>
+        <item>Hebelwirkung ist ein Kraft-Multiplikator für Ihr Urteil.</item>
+        <item>Urteil erfordert Erfahrung, kann aber durch das Erlernen grundlegender Fähigkeiten schneller aufgebaut werden.</item>
+        <item>Es gibt keine Fähigkeit, die "Geschäft" genannt wird. Vermeiden Sie Wirtschaftsmagazine und Geschäftsklassen.</item>
+        <item>Studiere Mikroökonomie, Spieltheorie, Psychologie, Überzeugung, Ethik, Mathematik und Computer.</item>
+        <item>Lesen ist schneller als zuhören. Tun ist schneller als schauen.</item>
+        <item>Sie sollten zu beschäftigt sein, um "Kaffee zu machen", während Sie immer noch einen übersichtlichen Kalender behalten.</item>
+        <item>Legen Sie einen persönlichen Stundensatz fest und setzen Sie ihn durch. Wenn ein Problem weniger als den Stundensatz reduziert, ignorieren Sie es. Wenn das Outsourcing einer Aufgabe weniger kostet als Ihr Stundensatz, lagern Sie sie aus.</item>
+        <item>Arbeite so hart wie du kannst. Aber wer mit Ihnen arbeitet und woran Sie arbeiten, ist wichtiger als Ihre harte Arbeit.</item>
+        <item>Werde zum Besten der Welt bei dem, was du tust. Definieren Sie das, was Sie tun, bis dies der Fall ist.</item>
+        <item>Es gibt keine schnellen schnellen Schemen. Das ist nur jemand anderes, der von dir reich wird.</item>
+        <item>Wenden Sie spezifisches Wissen an, mit Hebelwirkung, und schließlich werden Sie bekommen, was Sie verdienen.</item>
+        <item>Wenn Sie schließlich wohlhabend sind, werden Sie feststellen, dass es nicht das war, was Sie gesucht haben. Aber das ist für einen anderen Tag.</item>
+    </string-array>
+
+</resources>

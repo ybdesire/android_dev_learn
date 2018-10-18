@@ -17,14 +17,17 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="match_parent"
+        android:layout_width="366dp"
         android:layout_height="401dp"
+        android:layout_gravity="center"
         android:layout_marginTop="80dp"
-        android:text="123" />
+        android:text="123"
+
+        android:textSize="24sp" />
 
     <Button
         android:id="@+id/btn_back"
-        android:layout_width="273dp"
+        android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
 
