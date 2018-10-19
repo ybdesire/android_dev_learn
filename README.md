@@ -54,3 +54,8 @@ Learn Android Native APP dev by java &amp; android studio.
 ## 4. GraphView
 
 * [Graph View Demo](Common/TestGraphView)
+
+
+## 5. Apps
+
+* [tips get rich](apps/TipsGetRich)
