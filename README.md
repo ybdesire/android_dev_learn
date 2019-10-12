@@ -59,3 +59,10 @@ Learn Android Native APP dev by java &amp; android studio.
 ## 5. Apps
 
 * [tips get rich](apps/TipsGetRich)
+
+
+## 6. Message & Handler
+
+* [message by handler & looper](message/handler_thread_loop/)
+
+
