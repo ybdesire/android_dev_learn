@@ -64,5 +64,5 @@ Learn Android Native APP dev by java &amp; android studio.
 ## 6. Message & Handler
 
 * [message by handler & looper](message/handler_thread_loop/)
-
+* [handler update ui](message/handler_update_ui/)
 
