@@ -76,3 +76,9 @@ Learn Android Native APP dev by java &amp; android studio.
 * [put two button at different row](ui_layout/LinearLayout/two_button_at_diff_row/)
 
 
+# 8. uiautomator
+
+* [auto click app](uiautomator/click_app.py)
+
+
+
