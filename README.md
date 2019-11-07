@@ -77,6 +77,7 @@ Learn Android Native APP dev by java &amp; android studio.
 * [put two button at any location](ui_layout/LinearLayout/two_button_at_any_location/readme.md)
 * [set button background image](ui_layout/LinearLayout/button_background_set/readme.md)
 * [set layout background color & image](ui_layout/LinearLayout/background_color_image/readme.md)
+* [set imageview with click listener](ui_layout/LinearLayout/set_imageview_with_click_listener/readme.md)
 
 
 # 8. uiautomator
