@@ -84,5 +84,9 @@ Learn Android Native APP dev by java &amp; android studio.
 
 * [auto click app](uiautomator/click_app.py)
 
+# 9. LocationManager
+
+* [get GPS longitude and latitude](LocationManager/GetLocation)
+
 
 
