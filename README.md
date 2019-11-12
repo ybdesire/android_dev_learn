@@ -84,9 +84,14 @@ Learn Android Native APP dev by java &amp; android studio.
 
 * [auto click app](uiautomator/click_app.py)
 
+
 # 9. LocationManager
 
 * [get GPS longitude and latitude](LocationManager/GetLocation)
+
+
+# 10. Camera
+* [capture & display picture by camera](Camera/display_camera_data_at_view)
 
 
 
