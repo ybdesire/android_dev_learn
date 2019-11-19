@@ -94,4 +94,8 @@ Learn Android Native APP dev by java &amp; android studio.
 * [capture & display picture by camera](Camera/display_camera_data_at_view)
 
 
+# 11. SMS
+* [send sms](sms/send_sms)
+
+
 
