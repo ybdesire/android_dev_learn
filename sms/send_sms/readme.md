@@ -20,7 +20,7 @@ smsManager.sendTextMessage("phoneNo", null, "sms message", null, null);
 ```
 
 
-2. 
+2. 下面这种方法，目前的Android版本里，无法做到直接发送（phone number和sms body无效了）。它会弹出系统的发短信对话框。
 
 ```
 Intent smsIntent = new Intent(android.content.Intent.ACTION_VIEW);
@@ -31,7 +31,7 @@ startActivity(smsIntent);
 ```
 
 
-3. 
+3. 下面这种方法，目前的Android版本里，无法做到直接发送（phone number和sms body无效了）。它会弹出系统的发短信对话框。
 
 ```
 Uri uriSms = Uri.parse("smsto:1234567899");   
