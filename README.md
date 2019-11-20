@@ -96,6 +96,6 @@ Learn Android Native APP dev by java &amp; android studio.
 
 # 11. SMS
 * [send sms](sms/send_sms)
-
+* [read all sms](sms/sms_read)
 
 
