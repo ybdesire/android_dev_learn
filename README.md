@@ -99,3 +99,11 @@ Learn Android Native APP dev by java &amp; android studio.
 * [read all sms](sms/sms_read)
 
 
+# 12. Contacts
+* [collect all contacts name & phone number](ContactsContract/collect_all_contacts)
+
+
+
+
+
+
