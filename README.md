@@ -103,7 +103,8 @@ Learn Android Native APP dev by java &amp; android studio.
 * [collect all contacts name & phone number](ContactsContract/collect_all_contacts)
 
 
-
+# 13. Baidu SDK
+* [display baidu map at layout](baidu_sdk/baidu_map_sdk)
 
 
 
