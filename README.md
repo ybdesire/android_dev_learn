@@ -59,6 +59,7 @@ Learn Android Native APP dev by java &amp; android studio.
 # 5. Apps
 
 * [tips get rich](apps/TipsGetRich)
+* [HappyBook](apps/HappyBook)
 
 
 # 6. Message & Handler

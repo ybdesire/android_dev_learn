@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">HappyBook</string>
+    <string name="title_activity_answer">AnswerActivity</string>
+
+    <string name="happyclick">Happy Click</string>
+
+    <string name="intro1">How to use this app</string>
+    <string name="intro2">  1. Press the button</string>
+    <string name="intro3">  2. It tells you how to be happy</string>
+    <string name="intro4">  3. Enjoy it</string>
+
+    <string name="it1">The way to be happy:</string>
+
+    <string name="item1">Commit to doing one nice thing for yourself every day.</string>
+    <string name="item2">Listen to yourself.</string>
+    <string name="item3">Forgive yourself.</string>
+    <string name="item4">Accept yourself as you are right now.</string>
+    <string name="item5">Eliminate toxic people in your life and workplace.</string>
+    <string name="item6">Prioritize your health.</string>
+    <string name="item7">Stop skipping meals.</string>
+    <string name="item8">Breathe!</string>
+    <string name="item9">Give yourself a welcoming space.</string>
+    <string name="item10">Get some sunlight.</string>
+    <string name="item11">Buy premium products for yourself.</string>
+
+    <string name="details">While some factors that affect happiness are out of our control, (yes, genetics does play a role as do current life circumstances), there are always actions we can take to amp up our good vibes. Consider trying a few of these -- or all of them! -- and you are guaranteed to give your day a little boost.</string>
+
+    <string name="btn_back">Back</string>
+
+</resources>
