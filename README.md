@@ -120,3 +120,6 @@ Learn Android Native APP dev by java &amp; android studio.
 * [Vertical Scroll](ScrollUI/VerticalScroll)
 * [Horizon Scroll](ScrollUI/HorizonScroll)
   
+  
+# 17. Video
+* [VideoPlayer](VideoView/MyVideoPlayer/readme.md)
