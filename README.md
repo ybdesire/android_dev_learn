@@ -123,3 +123,7 @@ Learn Android Native APP dev by java &amp; android studio.
   
 # 17. Video
 * [VideoPlayer](VideoView/MyVideoPlayer/readme.md)
+
+
+# 18. PagerBottomTabStrip
+* [navigation bar](MyNav/readme.md)
