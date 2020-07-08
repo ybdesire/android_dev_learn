@@ -132,3 +132,7 @@ Learn Android Native APP dev by java &amp; android studio.
 # 19. file read/write (persistence)
 * [file read/write persistence](MyFileWR/readme.md)
 
+
+# 20. ProgressBar
+* [time delay & progress bar update](ProgressBar/MyProgressBar/readme.md)
+
