@@ -32,7 +32,7 @@ import me.majiajie.pagerbottomtabstrip.PageNavigationView;
 import me.majiajie.pagerbottomtabstrip.listener.SimpleTabItemSelectedListener;
 
 
-PageNavigationView tab = (PageNavigationView) findViewById(tab);
+PageNavigationView tab = (PageNavigationView) findViewById(R.id.tab);
 
 NavigationController navigationController = tab.material()
         .addItem(android.R.drawable.ic_menu_camera, "相机")
