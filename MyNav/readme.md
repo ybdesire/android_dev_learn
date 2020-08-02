@@ -27,6 +27,11 @@ details: app\src\main\res\layout\activity_main.xml
 3. add to activity for nav-bar-items & listener
 
 ```
+import me.majiajie.pagerbottomtabstrip.NavigationController;
+import me.majiajie.pagerbottomtabstrip.PageNavigationView;
+import me.majiajie.pagerbottomtabstrip.listener.SimpleTabItemSelectedListener;
+
+
 PageNavigationView tab = (PageNavigationView) findViewById(tab);
 
 NavigationController navigationController = tab.material()
